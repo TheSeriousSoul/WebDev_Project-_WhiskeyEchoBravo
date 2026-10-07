@@ -1,0 +1,49 @@
+html{
+    background-color: aqua;
+}
+
+h1{
+    color:red;
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    
+    font-family: "Clarity City", sans-serif;
+}
+
+
+.secondP{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+nav{
+    text-align: center;
+    color: rgb(0, 255, 98);
+
+}nav a.current_page{
+	color:rgb(255, 0, 0);
+	/*background:radial-gradient(circle, rgb(23, 78, 22) 20%, rgba(0,0,0,0) 100%);*/
+}
+img{
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: 660px;
+    size: 50%;
+}
+figcaption{
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+a{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
